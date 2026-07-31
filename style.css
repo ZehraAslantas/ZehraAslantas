@@ -1,0 +1,21 @@
+.rounded{
+    width: 600px;
+    heigth: 600px;
+}
+#duzen{
+    border-radius: 10%;
+    margin-right: 10px;
+}
+#yazi{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: large;
+    text-decoration: underline;
+     background-position: top center;
+     left: 50px;
+    
+  } 
+  #ayar{
+    
+  }
